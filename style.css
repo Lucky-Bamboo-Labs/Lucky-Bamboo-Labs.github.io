@@ -7,6 +7,8 @@
 
 html {
   padding: 5px;
+  background-color: #203c25;
+  color: #fff;
 }
 
 body {
@@ -20,10 +22,16 @@ h1 {
   text-align: center;
 }
 
-p {
+p, ul {
   width: 60%;
   margin: auto;
   padding: 10px;
 }
 
+ul {
+  padding-left: 60px;
+}
 
+a {
+  color: #fff;
+}
